@@ -1,4 +1,4 @@
-# Features Main Features lo add in the Chat App 
+# Features Main Features in the Chat App 
 
 1. Users can register/log in with a username 
 2. Users can search for a user 
